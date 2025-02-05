@@ -39,6 +39,7 @@ Statistical Visualization: Creating statistical charts and graphs to communicate
 ### 🔧 Tools & Technologies
 
 ![Google Sheets](https://img.shields.io/badge/-Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
 Excel & Spreadsheet Modeling: Advanced data analysis and modeling in Excel and Google Sheets, creating pivot tables, and using complex formulas.
 
 Data Cleaning: Expertise in data cleaning, transforming, and preparing datasets for analysis.
